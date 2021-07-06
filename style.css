@@ -8,6 +8,7 @@
     height: 80px;
     width: 100%;
     background-color: rgb(8,152,248);
+    position: fixed;
  }
 
 .logo{
@@ -61,7 +62,7 @@
     width: 50%;
     margin-left: 200px;
     padding-top:50px;
-    margin-top: 100px;
+    margin-top: 120px;
     margin-right: 100px;
     font-size: 40px;  
 }
@@ -91,6 +92,7 @@
 
 .bodyright img{
     padding-top: 50px;
+    margin-top: 50px;
     width: 600px;
 }
 
@@ -236,6 +238,7 @@
 
 .allrecipies a{
     text-decoration: none;
+    color: rgb(8,152,248);
 }
 
 
@@ -312,7 +315,7 @@ form{
 footer{
 
     height: 150px;
-    background-color:black;
+    background-color:rgb(165,212,238);
     font-size: 20px;
     color: white;
     text-align: center;
@@ -322,5 +325,6 @@ footer{
 
 footer p{
     padding-top: 20px;
+    font-weight: 400;
 }
 
