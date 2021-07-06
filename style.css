@@ -268,7 +268,30 @@
     padding-bottom: 20px;
     padding-top: 20px;
     font-size: 30px;
-    color: rgb(5,141,247);   
+    color: rgb(5,141,247); 
+
+}
+
+.socialprofiles{
+    height: 45px;
+}
+
+.socialprofiles a{
+       
+    display: inline-block;
+    text-decoration: none;
+    margin: 2px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(5,141,247);
+    box-shadow: 3px 5px 5px 3px rgb(59, 169, 228);
+    color: rgb(5,141,247);
+}
+
+
+.socialprofiles a:hover{
+    color: white;
+    background-color: rgb(5,141,247);
 }
 
 .contactright{
